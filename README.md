@@ -17,9 +17,5 @@ In my profile, you can find several projects with these technologies,including:
 -"TICTACTOE": TICTACTOE and MEMOTEST with REACT.
 
 
-
-Actually, I am looking for my first job opportunity. 
-
-
 Best
 Juani.
