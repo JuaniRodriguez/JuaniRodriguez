@@ -2,7 +2,7 @@ WELCOME!
 
 - 👋 Hi, I’m @JuaniRodriguez
 - 👀 Software Developer
-- 🌱 Currently working as a FullStack developer at Bigger.
+- 🌱 Currently working as a FullStack developer at Effit.
 - 📫 How to reach me +5493454335737 Linkedin: https://www.linkedin.com/in/juanirodriguez4/
 
 I started studying web development four years ago. To this day, i have learned HTML,CSS,JAVASCRIPT,TYPESCRIPT,SASS,BOOTSTRAP,TAILWIND,REACT,REACT NATIVE, NEXTJS,GIT,CYPRESS,JEST, NESTJS, TYPEORM, DOCKER.
